@@ -10,7 +10,6 @@ Overarching directive to protect the whole world
 - Part of church, strong faith
 - doubt spawns from interaction
 - War theme
-- 
 
 Peripheral characters
 Comic relief
