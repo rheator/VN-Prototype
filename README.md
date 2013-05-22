@@ -29,6 +29,7 @@ Setting: Cold, Snow, Medieval or Modern Fantasy
 - Blood is deep red, brings warmth and healing
 - Opt: Wall people
 
+- <thought> hostages count as a "burden". girl can be the eternal damsel in distress, forever bringing pain to the protagonist.
 
 Zombiessss
 ----------
