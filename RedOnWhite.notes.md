@@ -12,6 +12,7 @@ Shade
 * outer appearance grey, blue, faded, blood red staring eyes, "mind reader"
 * quiet, blunt, sharp, non-emotive, bitter world view but oblivious to bitterness -> Rei-like
 * Blood is deep red, brings warmth and healing
+
 Image:
 ![Shade image](rei.jpg)
 
